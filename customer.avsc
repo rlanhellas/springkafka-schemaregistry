@@ -1,0 +1,15 @@
+{
+   "type":"record",
+   "name":"Customer",
+   "namespace":"br.com.lanhellas",
+   "fields":[
+      {
+         "name":"id",
+         "type":"int"
+      },
+      {
+         "name":"name",
+         "type":"string"
+      }
+   ]
+}
