@@ -1,0 +1,1 @@
+This is a sample repository to show how producer and consumer using Schema Registry with Apache Kafka
